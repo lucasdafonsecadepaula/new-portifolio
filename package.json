@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.9",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^0.9.366",
     "@types/node": "20.3.0",
     "@types/react": "18.2.11",
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
     "eslint": "8.42.0",
     "eslint-config-next": "13.4.5",
+    "framer-motion": "^10.12.16",
     "next": "13.4.5",
     "postcss": "8.4.24",
     "react": "18.2.0",
