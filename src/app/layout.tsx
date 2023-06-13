@@ -6,7 +6,6 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Lucas de Paula",
   description: "Lucas de Paula, desenvolvedor front-end",
-  link: "/favicon.ico",
 };
 
 export default function RootLayout({
